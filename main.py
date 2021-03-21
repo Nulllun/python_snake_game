@@ -7,9 +7,6 @@ import config
 white = config.white
 yellow = config.yellow
 black = config.black
-red = config.red
-green = config.green
-blue = config.blue
 snake_color = config.white
 bg_color = config.black
 food_color = config.yellow
